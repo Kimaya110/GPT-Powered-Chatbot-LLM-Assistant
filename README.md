@@ -41,3 +41,8 @@ The **GPT-Powered Chatbot & LLM Assistant** is a real-time, AI-driven conversati
 ## Example
 
 ![output](https://github.com/user-attachments/assets/2d356826-a5b6-4aef-ab7a-e3c82f9b4339)
+
+---
+
+I hope you liked viewing it... 
+There may be problem while opening it as OpenAI's API key is a secret and doesn't allow anyone to view it and use it instead of the legal user in that case you can create your own api key and try implimenting the code.
